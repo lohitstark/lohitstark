@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working tickets sin 2023<br>📚 I'm currently
+<p align="left">✨ Working as Sys Admin sin 2022 <br>📚 I'm currently
 learning DevOps & AWS<br>🎯 Goals:To be a lead in my role<br>🎲 Fun
 fact: Take it easy policy</p>
 
