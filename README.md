@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lohit kumar and I'm Scrum Master from Bangalore</p>
+<p align="left">My name is Lohit kumar and I'm System Administrator from Bangalore</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating tickets sin 2023<br>📚 I'm currently
+<p align="left">✨ Working tickets sin 2023<br>📚 I'm currently
 learning DevOps & AWS<br>🎯 Goals:To be a lead in my role<br>🎲 Fun
 fact: Take it easy policy</p>
 
